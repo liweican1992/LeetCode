@@ -14,6 +14,7 @@
 		530480C723386903000B3615 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 530480C523386903000B3615 /* LaunchScreen.storyboard */; };
 		530480D223386903000B3615 /* LeetCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480D123386903000B3615 /* LeetCodeTests.swift */; };
 		530480DD23386903000B3615 /* LeetCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480DC23386903000B3615 /* LeetCodeUITests.swift */; };
+		530480EE23386C89000B3615 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480ED23386C89000B3615 /* TwoSum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		530480D823386903000B3615 /* LeetCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		530480DC23386903000B3615 /* LeetCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeUITests.swift; sourceTree = "<group>"; };
 		530480DE23386903000B3615 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		530480ED23386C89000B3615 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		530480BB23386903000B3615 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				530480EC23386C54000B3615 /* Bank */,
 				530480BC23386903000B3615 /* AppDelegate.swift */,
 				530480BE23386903000B3615 /* ViewController.swift */,
 				530480C023386903000B3615 /* Main.storyboard */,
@@ -123,6 +126,14 @@
 				530480DE23386903000B3615 /* Info.plist */,
 			);
 			path = LeetCodeUITests;
+			sourceTree = "<group>";
+		};
+		530480EC23386C54000B3615 /* Bank */ = {
+			isa = PBXGroup;
+			children = (
+				530480ED23386C89000B3615 /* TwoSum.swift */,
+			);
+			path = Bank;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,6 +269,7 @@
 			files = (
 				530480BF23386903000B3615 /* ViewController.swift in Sources */,
 				530480BD23386903000B3615 /* AppDelegate.swift in Sources */,
+				530480EE23386C89000B3615 /* TwoSum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

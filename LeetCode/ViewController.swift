@@ -12,7 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        //TwoSum
+        let array = TwoSum.twoSum([2, 7, 11, 15],9)
+        print(array)
+        
     }
 
 
