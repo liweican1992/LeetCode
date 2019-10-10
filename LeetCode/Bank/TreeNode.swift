@@ -9,16 +9,20 @@
 import Foundation
 
 /**
+ Num 144 145 94
+ https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
+ https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
+ https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
  Given a binary tree, return the preorder traversal of its nodes' values.
  
  Example:
  
  Input: [1,null,2,3]
  1
- \
- 2
- /
- 3
+  \
+    2
+    /
+   3
  
  Output: [1,2,3]
  Follow up: Recursive solution is trivial, could you do it iteratively?

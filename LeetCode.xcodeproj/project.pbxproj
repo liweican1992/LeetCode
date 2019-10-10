@@ -17,6 +17,8 @@
 		530480EE23386C89000B3615 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480ED23386C89000B3615 /* TwoSum.swift */; };
 		530480F02338A84D000B3615 /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480EF2338A84D000B3615 /* SingleNumber.swift */; };
 		530480F22339BEB5000B3615 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480F12339BEB5000B3615 /* TreeNode.swift */; };
+		5385F3DB233B5B7E00787135 /* 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5385F3DA233B5B7E00787135 /* 3Sum.swift */; };
+		5385F3DD233B724E00787135 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5385F3DC233B724E00787135 /* LongestPalindromicSubstring.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		530480ED23386C89000B3615 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		530480EF2338A84D000B3615 /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		530480F12339BEB5000B3615 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		5385F3DA233B5B7E00787135 /* 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3Sum.swift; sourceTree = "<group>"; };
+		5385F3DC233B724E00787135 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +142,8 @@
 				530480ED23386C89000B3615 /* TwoSum.swift */,
 				530480EF2338A84D000B3615 /* SingleNumber.swift */,
 				530480F12339BEB5000B3615 /* TreeNode.swift */,
+				5385F3DA233B5B7E00787135 /* 3Sum.swift */,
+				5385F3DC233B724E00787135 /* LongestPalindromicSubstring.swift */,
 			);
 			path = Bank;
 			sourceTree = "<group>";
@@ -275,9 +281,11 @@
 			files = (
 				530480BF23386903000B3615 /* ViewController.swift in Sources */,
 				530480F02338A84D000B3615 /* SingleNumber.swift in Sources */,
+				5385F3DD233B724E00787135 /* LongestPalindromicSubstring.swift in Sources */,
 				530480BD23386903000B3615 /* AppDelegate.swift in Sources */,
 				530480F22339BEB5000B3615 /* TreeNode.swift in Sources */,
 				530480EE23386C89000B3615 /* TwoSum.swift in Sources */,
+				5385F3DB233B5B7E00787135 /* 3Sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
