@@ -21,7 +21,7 @@ class ViewController: UIViewController {
 //        print(k)
         
         
-        let node1 = TreeNode.init(6)
+        let node1 = TreeNode.init(1)
         let node2 = TreeNode.init(2)
         let node3 = TreeNode.init(3)
         let node4 = TreeNode.init(4)
