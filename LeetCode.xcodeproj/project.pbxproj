@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		423A7159252094BC00DD0183 /* 20.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423A7158252094BC00DD0183 /* 20.swift */; };
+		423A715E2520AEA700DD0183 /* 155.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423A715D2520AEA700DD0183 /* 155.swift */; };
 		530480BD23386903000B3615 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480BC23386903000B3615 /* AppDelegate.swift */; };
 		530480BF23386903000B3615 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530480BE23386903000B3615 /* ViewController.swift */; };
 		530480C223386903000B3615 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 530480C023386903000B3615 /* Main.storyboard */; };
@@ -39,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		423A7158252094BC00DD0183 /* 20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20.swift; sourceTree = "<group>"; };
+		423A715D2520AEA700DD0183 /* 155.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 155.swift; sourceTree = "<group>"; };
 		530480B923386903000B3615 /* LeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		530480BC23386903000B3615 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		530480BE23386903000B3615 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -144,6 +148,8 @@
 				530480F12339BEB5000B3615 /* TreeNode.swift */,
 				5385F3DA233B5B7E00787135 /* 3Sum.swift */,
 				5385F3DC233B724E00787135 /* LongestPalindromicSubstring.swift */,
+				423A7158252094BC00DD0183 /* 20.swift */,
+				423A715D2520AEA700DD0183 /* 155.swift */,
 			);
 			path = Bank;
 			sourceTree = "<group>";
@@ -284,6 +290,8 @@
 				5385F3DD233B724E00787135 /* LongestPalindromicSubstring.swift in Sources */,
 				530480BD23386903000B3615 /* AppDelegate.swift in Sources */,
 				530480F22339BEB5000B3615 /* TreeNode.swift in Sources */,
+				423A7159252094BC00DD0183 /* 20.swift in Sources */,
+				423A715E2520AEA700DD0183 /* 155.swift in Sources */,
 				530480EE23386C89000B3615 /* TwoSum.swift in Sources */,
 				5385F3DB233B5B7E00787135 /* 3Sum.swift in Sources */,
 			);
